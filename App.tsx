@@ -33,8 +33,7 @@ const App = () => {
         name: 'WorkShirt',
         price: 129,
         photo:
-          'https://cf.shopee.co.id/file/id-11134207-7r98w-lq0mzbsu9idse8
-          ',
+          'https://cf.shopee.co.id/file/id-11134207-7r98w-lq0mzbsu9idse8',
       },
       {
         id: 3,
